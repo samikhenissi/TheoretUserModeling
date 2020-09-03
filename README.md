@@ -3,8 +3,10 @@
 This repo contains the simulation code for our experiments for the paper:  https://arxiv.org/abs/2008.13526
 
 ## Authors: 
-Sami Khenissi, University of Louisville 
+Sami Khenissi, University of Louisville
+
 Mariem Boujelbene, University of Louisville 
+
 Olfa Nasraoui: University of Louisville
 
 ## Abstract:
