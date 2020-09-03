@@ -26,9 +26,7 @@ Olfa Nasraoui: University of Louisville
 *We empirically study the limit of basic exploration approaches and their effectiveness in  increasing human discovery
 
 ## Requirements to run the code:
-'''bash
-python 3.6
-pandas
-numpy
-matplotlib
-'''
+```bash
+pandas==1.0.1
+numpy==1.18.1
+```
