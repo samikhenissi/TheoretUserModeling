@@ -1,13 +1,13 @@
 # Theoretical Modeling of the Iterative Properties of User Discovery in a Collaborative Filtering Recommender System
 
-This repo contains the simulation code for our experiments for the paper: 
+This repo contains the simulation code for our experiments for the paper:  https://arxiv.org/abs/2008.13526
 
 ## Authors: 
 Sami Khenissi, University of Louisville 
 Mariem Boujelbene, University of Louisville 
 Olfa Nasraoui: University of Louisville
 
-## Abstract: https://arxiv.org/abs/2008.13526
+## Abstract:
 
     The closed feedback loop in recommender systems is a common setting that can lead to different types of biases. Several studies have dealt with these biases by designing methods to mitigate their effect on the recommendations.  However, most existing studies do not consider the iterative behavior of the system where the closed feedback loop plays a crucial role in incorporating different biases into several parts of the recommendation steps.  
 
