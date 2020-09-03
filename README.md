@@ -20,10 +20,10 @@ Our findings lay the theoretical basis for quantifying the effect of feedback lo
 
 ## Main results:
 
-*We present a theoretical study of the evolution of a recommender system's feedback loop by looking at the asymptotic behavior of its components.   
-*We provide a theoretical bound on the human discovery resulting from interacting with a generic recommender system, under certain assumptions. 
-*We verify our theoretical results, empirically \footnote{https://github.com/samikhenissi/TheoretUserModeling}, using a semi-synthetic dataset.
-*We empirically study the limit of basic exploration approaches and their effectiveness in  increasing human discovery
+* We present a theoretical study of the evolution of a recommender system's feedback loop by looking at the asymptotic behavior of its components.   
+* We provide a theoretical bound on the human discovery resulting from interacting with a generic recommender system, under certain assumptions. 
+* We verify our theoretical results, empirically \footnote{https://github.com/samikhenissi/TheoretUserModeling}, using a semi-synthetic dataset.
+* We empirically study the limit of basic exploration approaches and their effectiveness in  increasing human discovery
 
 ## Requirements to run the code:
 ```bash
